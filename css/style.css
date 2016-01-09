@@ -88,7 +88,7 @@ textarea {
 	line-height: 51.3281px;
 	z-index: 300;
 }
-.ba-header-link{
+.ba-header-logo{
 	text-transform: uppercase;
 	letter-spacing: 0.733333px;
 	font-weight: bold;
@@ -121,7 +121,7 @@ textarea {
 .ba-nav--active {
 	background-color: #605F6F;
 }
-.ba-nav>li:hover, .ba-header-link:hover {
+.ba-nav>li:hover {
 	background-color: #767588;
 }
 .ba-layouts-list, .ba-submenu-list {
