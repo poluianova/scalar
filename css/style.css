@@ -121,7 +121,7 @@ textarea {
 .ba-nav--active {
 	background-color: #605F6F;
 }
-.ba-nav>li:hover {
+.ba-nav>li:hover, .ba-nav--active:hover  {
 	background-color: #767588;
 }
 .ba-layouts-list, .ba-submenu-list {
